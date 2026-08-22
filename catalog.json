@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "title": "Game Night Launcher",
-  "generatedAtUtc": "2026-08-22T17:26:56.0133446+00:00",
+  "generatedAtUtc": "2026-08-22T17:27:15.175821+00:00",
   "tcli": {
     "releaseApiUrl": "https://api.github.com/repos/thunderstore-io/thunderstore-cli/releases?per_page=10",
     "directDownloadUrl": "",
@@ -17,16 +17,16 @@
     {
       "id": "bopl-battle",
       "displayName": "Bopl Battle",
-      "description": "2 Mods \u00B7 Pack 20260822-192655",
+      "description": "2 Mods \u00B7 Pack 20260822-192715",
       "thunderstoreId": "bopl-battle",
       "tcliImportId": "",
       "tcliIdentifier": "bopl-battle",
       "tcliDisplayName": "Bopl Battle",
       "steamAppId": 1686940,
       "profileName": "Friends",
-      "revision": "20260822-192655",
+      "revision": "20260822-192715",
       "executableRelativePath": "BoplBattle.exe",
-      "configArchive": "games/bopl-battle/configs-20260822-192655.zip",
+      "configArchive": "games/bopl-battle/configs-20260822-192715.zip",
       "configSha256": "15e4e2d51df252115d5e0b3e8b714d1f248442b9f8cea2aba1023fcf77089f52",
       "mods": [
         {
@@ -46,16 +46,16 @@
     {
       "id": "ultimate-chicken-horse",
       "displayName": "Ultimate Chicken Horse",
-      "description": "2 Mods \u00B7 Pack 20260822-192655",
+      "description": "2 Mods \u00B7 Pack 20260822-192715",
       "thunderstoreId": "ultimate-chicken-horse",
       "tcliImportId": "",
       "tcliIdentifier": "ultimate-chicken-horse",
       "tcliDisplayName": "Ultimate Chicken Horse",
       "steamAppId": 386940,
       "profileName": "Friends",
-      "revision": "20260822-192655",
+      "revision": "20260822-192715",
       "executableRelativePath": "UltimateChickenHorse.exe",
-      "configArchive": "games/ultimate-chicken-horse/configs-20260822-192655.zip",
+      "configArchive": "games/ultimate-chicken-horse/configs-20260822-192715.zip",
       "configSha256": "15e4e2d51df252115d5e0b3e8b714d1f248442b9f8cea2aba1023fcf77089f52",
       "mods": [
         {
