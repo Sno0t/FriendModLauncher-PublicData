@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "title": "Game Night Launcher",
-  "generatedAtUtc": "2026-08-22T16:12:18.696873+00:00",
+  "generatedAtUtc": "2026-08-22T16:34:18.1427964+00:00",
   "tcli": {
     "releaseApiUrl": "https://api.github.com/repos/thunderstore-io/thunderstore-cli/releases?per_page=10",
     "directDownloadUrl": "",
@@ -14,6 +14,32 @@
     "sha256": ""
   },
   "games": [
+    {
+      "id": "bopl-battle",
+      "displayName": "Bopl Battle",
+      "description": "2 Mods \u00B7 Pack 20260822-183134",
+      "thunderstoreId": "bopl-battle",
+      "steamAppId": 1686940,
+      "profileName": "Friends",
+      "revision": "20260822-183134",
+      "executableRelativePath": "BoplBattle.exe",
+      "configArchive": "games/bopl-battle/configs-20260822-183134.zip",
+      "configSha256": "15e4e2d51df252115d5e0b3e8b714d1f248442b9f8cea2aba1023fcf77089f52",
+      "mods": [
+        {
+          "package": "BepInEx-BepInExPack",
+          "version": "5.4.2305",
+          "dependencies": []
+        },
+        {
+          "package": "geddesworks-FixedMoreBopl",
+          "version": "0.0.13",
+          "dependencies": [
+            "BepInEx-BepInExPack-5.4.2100"
+          ]
+        }
+      ]
+    },
     {
       "id": "boplbattle",
       "displayName": "BoplBattle",
@@ -34,6 +60,32 @@
         {
           "package": "geddesworks-FixedMoreBopl",
           "version": "0.0.13",
+          "dependencies": [
+            "BepInEx-BepInExPack-5.4.2100"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ultimate-chicken-horse",
+      "displayName": "Ultimate Chicken Horse",
+      "description": "2 Mods \u00B7 Pack 20260822-183412",
+      "thunderstoreId": "ultimate-chicken-horse",
+      "steamAppId": 386940,
+      "profileName": "Friends",
+      "revision": "20260822-183412",
+      "executableRelativePath": "UltimateChickenHorse.exe",
+      "configArchive": "games/ultimate-chicken-horse/configs-20260822-183412.zip",
+      "configSha256": "15e4e2d51df252115d5e0b3e8b714d1f248442b9f8cea2aba1023fcf77089f52",
+      "mods": [
+        {
+          "package": "BepInEx-BepInExPack",
+          "version": "5.4.2305",
+          "dependencies": []
+        },
+        {
+          "package": "murks-Even_More_Players",
+          "version": "10.0.1",
           "dependencies": [
             "BepInEx-BepInExPack-5.4.2100"
           ]
