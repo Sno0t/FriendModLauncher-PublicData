@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "title": "Game Night Launcher",
-  "generatedAtUtc": "2026-08-22T16:34:18.1427964+00:00",
+  "generatedAtUtc": "2026-08-22T16:45:52.4772761+00:00",
   "tcli": {
     "releaseApiUrl": "https://api.github.com/repos/thunderstore-io/thunderstore-cli/releases?per_page=10",
     "directDownloadUrl": "",
@@ -17,13 +17,13 @@
     {
       "id": "bopl-battle",
       "displayName": "Bopl Battle",
-      "description": "2 Mods \u00B7 Pack 20260822-183134",
+      "description": "2 Mods \u00B7 Pack 20260822-184535",
       "thunderstoreId": "bopl-battle",
       "steamAppId": 1686940,
       "profileName": "Friends",
-      "revision": "20260822-183134",
+      "revision": "20260822-184535",
       "executableRelativePath": "BoplBattle.exe",
-      "configArchive": "games/bopl-battle/configs-20260822-183134.zip",
+      "configArchive": "games/bopl-battle/configs-20260822-184535.zip",
       "configSha256": "15e4e2d51df252115d5e0b3e8b714d1f248442b9f8cea2aba1023fcf77089f52",
       "mods": [
         {
