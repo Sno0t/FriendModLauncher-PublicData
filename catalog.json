@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "title": "Game Night Launcher",
+  "generatedAtUtc": "2026-08-22T00:00:00+00:00",
+  "tcli": {
+    "releaseApiUrl": "https://api.github.com/repos/thunderstore-io/thunderstore-cli/releases?per_page=10",
+    "directDownloadUrl": "",
+    "assetRegex": "(?i)(win|windows).*(x64|amd64).*\\.zip$|(?i)(x64|amd64).*(win|windows).*\\.zip$"
+  },
+  "launcher": {
+    "enabled": false,
+    "latestVersion": "",
+    "downloadUrl": "",
+    "sha256": ""
+  },
+  "games": []
+}
